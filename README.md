@@ -31,7 +31,7 @@ Type: **Eclipse Project targeted for the Raspberry Pi device**
 * The app will include some basic GUI elements.
 
 # Note: 
-This project is an Eclipse Java project to build and export the **OldFaithful.jar** class, a classifier that can run on the Raspberry Pi device.
+This project is an Eclipse Java project to build and export the **OldFaithful.jar** class, a classifier that can run on the Raspberry Pi device, or any Java client.
 
 # File Description
 | File                             | Description                                                  |
