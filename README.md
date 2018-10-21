@@ -38,7 +38,7 @@ This project is an Eclipse Java project to build and export the **OldFaithful.ja
 | -------------------------------- | ------------------------------------------------------------ |
 | OldFaithful->src->OldFaithful.java | The main Java class. Contains everything including the GUI code. Loads the model and data file from the external Unix file system directory. |
 | OldFaithful->libs->Weka-Android-3-8-1.jar | The Weka API library file. You can use the Android version for the Raspberry Pi. |
-| /home/pi/Java-proj/Weka/old_faithful_rf_i10.model | RF model, external file |
+| /home/pi/Java-proj/Weka/old_faithful_rf_i10.model | A pre-built Random Forest model in Weka, external file |
 | /home/pi/Java-proj/Weka/old_faithful_single_instance.arff | Single instance of data, external file |
 
 # Application Screenshot
